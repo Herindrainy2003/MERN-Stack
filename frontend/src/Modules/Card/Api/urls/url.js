@@ -1,0 +1,1 @@
+export const basesUrl = "http://localhost:1000/api/pub";
